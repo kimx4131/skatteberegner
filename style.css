@@ -1,0 +1,44 @@
+body{
+    background-image: url("bg-img.jpeg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.my-container{
+    width: 100%;
+    padding-right: 25%;
+    padding-left: 25%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.jumbotron{
+    margin-top: 10%;
+    padding: 25px;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+label{
+    margin-top:20px;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.btn{
+    background: lightgray;
+    margin-top: 20px;
+}
+
+#msg{
+    margin-top: 10px;
+}
+
+.form-control{
+    border: none;
+    border-bottom: 1px solid lightgray;
+}
+
+#gennemsnit{
+    margin-bottom: 0;
+}
